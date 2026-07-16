@@ -351,7 +351,7 @@ a{ color:inherit; text-decoration:none; }
 /* Copilot's source file has more built-in whitespace than the others,
    so it renders visibly smaller at the same height — boost it to match. */
 .logo-chip img[alt="Copilot"]{
-  height:36px;
+  height:42px;
 }
 .footer-text{
   color:var(--slate);

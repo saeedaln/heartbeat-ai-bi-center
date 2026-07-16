@@ -36,7 +36,7 @@ const TOOLS = [
     title: "Core Express Business Process Model",
     description: "Interactive business process model mapping Core Express operations end to end.",
     category: "Process Model",
-    icon: "images/BMPN Logo.png",
+    logo: "images/BMPN Logo.png",
     url: "https://aramex-my.sharepoint.com/:b:/p/saeedal/IQBtKts3kbcxTK2Qp6GRUa9LAZe25x5dD-lGtbr59NbnWls?e=W6298E"
   }
 ];
